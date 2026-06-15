@@ -1,0 +1,23 @@
+{
+  "id": "facebook_reels_ad",
+  "oas_id": null,
+  "media_owner_id": "facebook",
+  "canonical_id": "reels_ad",
+  "format_name": "Reels Ad",
+  "channels": [
+    "social",
+    "video"
+  ],
+  "placements": [
+    "reels"
+  ],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://www.facebook.com/business/ads-guide",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "The raw markdown content provided does not contain specific technical specifications for the Reels Ad format. The page appears to be the Meta Ads Guide landing/index page, which requires login or navigation to a sub-page to access detailed format specifications. No dimensions, file requirements, copy limits, or targeting details could be extracted."
+}
