@@ -1,0 +1,22 @@
+{
+  "id": "facebook_marketplace_ad",
+  "oas_id": null,
+  "media_owner_id": "facebook",
+  "canonical_id": "marketplace_ad",
+  "format_name": "Marketplace Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "marketplace"
+  ],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://www.facebook.com/business/ads-guide",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "The raw content provided does not contain specific technical specifications for the Marketplace Ad format. The page appears to be the Meta Ads Guide landing/overview page requiring login or navigation to access detailed specs. No dimensions, file requirements, copy limits, or targeting details were extractable from the provided content."
+}
