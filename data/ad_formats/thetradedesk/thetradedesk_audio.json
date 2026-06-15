@@ -1,0 +1,33 @@
+{
+  "id": "thetradedesk_audio",
+  "oas_id": null,
+  "media_owner_id": "thetradedesk",
+  "canonical_id": "audio_ad",
+  "format_name": "Audio",
+  "channels": [
+    "audio"
+  ],
+  "placements": [],
+  "dimensions": null,
+  "file": {
+    "types": [
+      "mp3",
+      "ogg",
+      "wav"
+    ],
+    "max_size_mb": null,
+    "max_size_kb": null,
+    "max_duration_s": 60,
+    "min_duration_s": null,
+    "frame_rate": null,
+    "max_bitrate_kbps": null,
+    "resolution": null
+  },
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://partner.thetradedesk.com/v3/portal/api/doc/CreativeSpecs",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "No raw markdown content was provided beyond the URL. File type and duration values are based on common TTD audio ad specifications; all fields should be verified against the actual source page."
+}
