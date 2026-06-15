@@ -1,0 +1,27 @@
+{
+  "id": "linkedin_message_ad",
+  "oas_id": null,
+  "media_owner_id": "linkedin",
+  "canonical_id": "message_ad",
+  "format_name": "Message Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "inbox"
+  ],
+  "dimensions": null,
+  "file": null,
+  "copy": {
+    "headline_char_limit": null,
+    "body_char_limit": null,
+    "description_char_limit": null,
+    "cta_options": null
+  },
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://business.linkedin.com/marketing-solutions/ad-specs",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "No specification details were present in the raw markdown content provided. Message Ads are delivered directly to LinkedIn member inboxes."
+}
