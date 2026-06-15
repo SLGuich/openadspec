@@ -1,0 +1,43 @@
+{
+  "id": "thetradedesk_video",
+  "oas_id": null,
+  "media_owner_id": "thetradedesk",
+  "canonical_id": "video_ad",
+  "format_name": "Video",
+  "channels": [
+    "video"
+  ],
+  "placements": [],
+  "dimensions": {
+    "width": null,
+    "height": null,
+    "aspect_ratios": null,
+    "max_width": null,
+    "max_height": null
+  },
+  "file": {
+    "types": [
+      "mp4",
+      "mov",
+      "avi",
+      "wmv",
+      "flv",
+      "mkv",
+      "webm"
+    ],
+    "max_size_mb": null,
+    "max_size_kb": null,
+    "max_duration_s": null,
+    "min_duration_s": null,
+    "frame_rate": null,
+    "max_bitrate_kbps": null,
+    "resolution": null
+  },
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://partner.thetradedesk.com/v3/portal/api/doc/CreativeSpecs",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "No raw markdown content was provided beyond the URL. The file types listed are commonly associated with The Trade Desk video creatives but could not be confirmed from the source content. All unconfirmed fields set to null."
+}
