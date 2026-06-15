@@ -7,14 +7,45 @@
   "channels": [
     "social"
   ],
-  "placements": [],
-  "dimensions": null,
-  "file": null,
-  "copy": null,
+  "placements": [
+    "in_feed"
+  ],
+  "dimensions": {
+    "width": 1080,
+    "height": 1080,
+    "aspect_ratios": [
+      "1.91:1",
+      "1:1"
+    ],
+    "max_width": null,
+    "max_height": null
+  },
+  "file": {
+    "types": [
+      "jpg",
+      "png",
+      "mp4",
+      "mov",
+      "gif"
+    ],
+    "max_size_mb": 4096,
+    "max_size_kb": null,
+    "max_duration_s": null,
+    "min_duration_s": null,
+    "frame_rate": null,
+    "max_bitrate_kbps": null,
+    "resolution": "At least 1080 x 1080 pixels"
+  },
+  "copy": {
+    "headline_char_limit": 40,
+    "body_char_limit": 125,
+    "description_char_limit": null,
+    "cta_options": null
+  },
   "targeting": null,
   "iab_ref": null,
-  "source_url": "https://www.facebook.com/business/ads-guide",
+  "source_url": "https://www.facebook.com/business/ads-guide/image",
   "last_scraped": "2026-06-15",
   "spec_version": 1,
-  "notes": "The raw markdown content did not contain detailed technical specifications for the Collection Ad format. Only navigation links and general page content were present. Actual spec data (dimensions, file requirements, copy limits, etc.) requires authenticated access or a deeper page scrape of https://www.facebook.com/business/ads-guide/update/collection."
+  "notes": "Collection ad in Facebook Feed includes a cover image or video followed by 3 product images. When tapped, opens an Instant Experience (required). Cover image max file size: 30MB; Video max file size: 4GB. Ratio listed as range 1.91:1 to 1:1. Also available on Facebook video feeds, Facebook Reels, Facebook Marketplace, Instagram Feed, Instagram Stories, Instagram Reels, and Instagram Explore placements (specs shown are for Facebook Feed only)."
 }
