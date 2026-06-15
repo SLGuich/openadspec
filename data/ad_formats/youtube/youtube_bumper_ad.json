@@ -1,0 +1,38 @@
+{
+  "id": "youtube_bumper_ad",
+  "oas_id": null,
+  "media_owner_id": "youtube",
+  "canonical_id": "bumper_ad",
+  "format_name": "Bumper Ad",
+  "channels": [
+    "video"
+  ],
+  "placements": [
+    "pre_roll",
+    "mid_roll",
+    "post_roll"
+  ],
+  "dimensions": null,
+  "file": {
+    "types": null,
+    "max_size_mb": null,
+    "max_size_kb": null,
+    "max_duration_s": 6,
+    "min_duration_s": null,
+    "frame_rate": null,
+    "max_bitrate_kbps": null,
+    "resolution": null
+  },
+  "copy": {
+    "headline_char_limit": null,
+    "body_char_limit": null,
+    "description_char_limit": null,
+    "cta_options": null
+  },
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://support.google.com/youtube/answer/2375497",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "Bumper ads are 6 seconds long and play before, during, or after other videos. Users do not have the option to skip the ad. Available as a headline and display URL (up to 255 characters) creative option. Supported in Video reach (Efficient reach, Non-skippable reach, Target frequency), Ad sequence, and Reservation campaign subtypes."
+}
