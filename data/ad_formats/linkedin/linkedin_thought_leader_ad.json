@@ -1,0 +1,22 @@
+{
+  "id": "linkedin_thought_leader_ad",
+  "oas_id": null,
+  "media_owner_id": "linkedin",
+  "canonical_id": "thought_leader_ad",
+  "format_name": "Thought Leader Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "in_feed"
+  ],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://business.linkedin.com/marketing-solutions/ad-specs",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "No technical specification details were present in the raw markdown content provided. Thought Leader Ads on LinkedIn are organic posts boosted from individual member profiles. Specs could not be extracted."
+}
