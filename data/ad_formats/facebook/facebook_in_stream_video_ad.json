@@ -1,0 +1,22 @@
+{
+  "id": "facebook_in_stream_video_ad",
+  "oas_id": null,
+  "media_owner_id": "facebook",
+  "canonical_id": "in_stream_video_ad",
+  "format_name": "In-Stream Video Ad",
+  "channels": [
+    "video"
+  ],
+  "placements": [
+    "in_stream"
+  ],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://www.facebook.com/business/ads-guide",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "The raw page content did not contain specific technical specifications for the In-Stream Video Ad format. The page appears to be a landing/index page for the Meta Ads Guide without detailed per-format spec data. Specifications could not be extracted."
+}
