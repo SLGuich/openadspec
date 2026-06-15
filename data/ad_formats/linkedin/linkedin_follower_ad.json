@@ -1,0 +1,22 @@
+{
+  "id": "linkedin_follower_ad",
+  "oas_id": null,
+  "media_owner_id": "linkedin",
+  "canonical_id": "follower_ad",
+  "format_name": "Follower Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "in_feed"
+  ],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://business.linkedin.com/marketing-solutions/ad-specs",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "No specification details were present in the raw markdown content provided. Follower Ads are a LinkedIn Dynamic Ad format designed to grow a Company Page's follower count."
+}
