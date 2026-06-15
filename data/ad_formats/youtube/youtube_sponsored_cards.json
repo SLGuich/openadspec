@@ -1,0 +1,20 @@
+{
+  "id": "youtube_sponsored_cards",
+  "oas_id": null,
+  "media_owner_id": "youtube",
+  "canonical_id": "sponsored_cards",
+  "format_name": "Sponsored Cards",
+  "channels": [
+    "video"
+  ],
+  "placements": [],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://support.google.com/youtube/answer/2375497",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "The source page covers general Video campaign creation on YouTube but contains no specific technical specifications for the Sponsored Cards ad format. No dimensions, file requirements, copy limits, or targeting details for Sponsored Cards are present in the raw content."
+}
