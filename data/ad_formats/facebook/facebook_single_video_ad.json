@@ -1,0 +1,71 @@
+{
+  "id": "facebook_single_video_ad",
+  "oas_id": null,
+  "media_owner_id": "facebook",
+  "canonical_id": "single_video_ad",
+  "format_name": "Single Video Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "in_feed"
+  ],
+  "dimensions": {
+    "width": null,
+    "height": null,
+    "aspect_ratios": [
+      "4:5"
+    ],
+    "max_width": null,
+    "max_height": null
+  },
+  "file": {
+    "types": [
+      "mp4",
+      "mov",
+      "gif"
+    ],
+    "max_size_mb": 4096,
+    "max_size_kb": null,
+    "max_duration_s": 14460,
+    "min_duration_s": 1,
+    "frame_rate": "fixed",
+    "max_bitrate_kbps": null,
+    "resolution": "1440x1800"
+  },
+  "copy": {
+    "headline_char_limit": 27,
+    "body_char_limit": 150,
+    "description_char_limit": null,
+    "cta_options": [
+      "Apply now",
+      "Book now",
+      "Download",
+      "Learn more",
+      "Get quote",
+      "Send message",
+      "Order now",
+      "Shop now",
+      "Sign up",
+      "Watch more",
+      "Send WhatsApp message",
+      "Find Your Groups",
+      "Try in Camera",
+      "Subscribe",
+      "Request time",
+      "See menu",
+      "Get showtimes",
+      "Contact us",
+      "Listen now",
+      "Call now",
+      "Get directions",
+      "Dial code"
+    ]
+  },
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://www.facebook.com/business/ads-guide/image",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "Specs shown are for Facebook Feed placement. Video settings: H.264 compression, square pixels, fixed frame rate, progressive scan, stereo AAC audio at 128kbps+. Minimum width: 120px, minimum height: 120px. Primary text recommendation is 50-150 characters. Max file size is 4GB (stored as 4096 MB). Max duration 241 minutes converted to 14460 seconds. Video captions and sound are optional but recommended. 360 videos supported with some objectives."
+}
