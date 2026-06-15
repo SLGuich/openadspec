@@ -1,0 +1,20 @@
+{
+  "id": "thetradedesk_digital_out_of_home",
+  "oas_id": null,
+  "media_owner_id": "thetradedesk",
+  "canonical_id": "digital_out_of_home",
+  "format_name": "Digital Out-of-Home",
+  "channels": [
+    "dooh"
+  ],
+  "placements": [],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://partner.thetradedesk.com/v3/portal/api/doc/CreativeSpecs",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "No specification content was provided in the raw markdown. Unable to extract technical details."
+}
