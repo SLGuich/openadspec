@@ -15,8 +15,8 @@
   "copy": null,
   "targeting": null,
   "iab_ref": null,
-  "source_url": "https://www.facebook.com/business/ads-guide",
+  "source_url": "https://www.facebook.com/business/ads-guide/image",
   "last_scraped": "2026-06-15",
   "spec_version": 1,
-  "notes": "The raw page content did not contain specific technical specifications for the Stories Ad format. The page appears to be a landing/index page for the Meta Ads Guide without detailed per-format spec data rendered in the scraped markdown."
+  "notes": "The source URL returned a 404-equivalent page ('You found a page that doesn't exist'). No ad specification data was available in the raw content. All specification fields are null as a result."
 }
