@@ -1,0 +1,20 @@
+{
+  "id": "facebook_instant_experience_ad",
+  "oas_id": null,
+  "media_owner_id": "facebook",
+  "canonical_id": "instant_experience_ad",
+  "format_name": "Instant Experience Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://www.facebook.com/business/ads-guide/image",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "The source URL returned a 404-equivalent page ('You found a page that doesn't exist'). No specification data was available in the raw content. All fields are null due to absence of spec information."
+}
