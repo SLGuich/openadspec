@@ -16,8 +16,8 @@
   "copy": null,
   "targeting": null,
   "iab_ref": null,
-  "source_url": "https://www.facebook.com/business/ads-guide",
+  "source_url": "https://www.facebook.com/business/ads-guide/image",
   "last_scraped": "2026-06-15",
   "spec_version": 1,
-  "notes": "The raw markdown content provided does not contain specific technical specifications for the Reels Ad format. The page appears to be the Meta Ads Guide landing/index page, which requires login or navigation to a sub-page to access detailed format specifications. No dimensions, file requirements, copy limits, or targeting details could be extracted."
+  "notes": "The source URL returned a 404 'page not found' error. No specification data was available in the raw content. All fields set to null due to absence of extractable spec information."
 }
