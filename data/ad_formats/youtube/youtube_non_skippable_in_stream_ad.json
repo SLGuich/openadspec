@@ -1,0 +1,38 @@
+{
+  "id": "youtube_non_skippable_in_stream_ad",
+  "oas_id": null,
+  "media_owner_id": "youtube",
+  "canonical_id": "non_skippable_in_stream_video_ad",
+  "format_name": "Non-Skippable In-Stream Ad",
+  "channels": [
+    "video"
+  ],
+  "placements": [
+    "pre_roll",
+    "mid_roll",
+    "post_roll"
+  ],
+  "dimensions": null,
+  "file": {
+    "types": null,
+    "max_size_mb": null,
+    "max_size_kb": null,
+    "max_duration_s": 15,
+    "min_duration_s": null,
+    "frame_rate": null,
+    "max_bitrate_kbps": null,
+    "resolution": null
+  },
+  "copy": {
+    "headline_char_limit": null,
+    "body_char_limit": null,
+    "description_char_limit": null,
+    "cta_options": null
+  },
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://support.google.com/youtube/answer/2375497",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "Non-skippable in-stream ads play before, during, or after other videos. Users do not have the option to skip the ad. Under auction buying, the 'Non-skippable reach' subtype uses 15-second non-skippable in-stream ads. Under reservation buying, non-skippable in-stream ads are described as 'up to 30 seconds long'. The table in the source also indicates a 'Max 15-20 seconds' range. The source does not specify file types, file size, or detailed copy character limits for this format."
+}
