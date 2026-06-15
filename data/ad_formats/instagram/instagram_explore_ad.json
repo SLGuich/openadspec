@@ -1,0 +1,22 @@
+{
+  "id": "instagram_explore_ad",
+  "oas_id": null,
+  "media_owner_id": "instagram",
+  "canonical_id": "explore_ad",
+  "format_name": "Explore Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "explore"
+  ],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://www.facebook.com/business/ads-guide/image",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "The source URL returned a 404-equivalent page ('You found a page that doesn't exist'). No technical specifications were available in the scraped content. All spec fields are null as a result."
+}
