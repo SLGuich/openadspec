@@ -1,0 +1,62 @@
+{
+  "id": "linkedin_video_ad",
+  "oas_id": null,
+  "media_owner_id": "linkedin",
+  "canonical_id": "video_ad",
+  "format_name": "Video Ad",
+  "channels": [
+    "social",
+    "video"
+  ],
+  "placements": [
+    "in_feed"
+  ],
+  "dimensions": {
+    "width": null,
+    "height": null,
+    "aspect_ratios": [
+      "1:1",
+      "16:9",
+      "9:16"
+    ],
+    "max_width": null,
+    "max_height": null
+  },
+  "file": {
+    "types": [
+      "mp4"
+    ],
+    "max_size_mb": 200,
+    "max_size_kb": null,
+    "max_duration_s": 1800,
+    "min_duration_s": 3,
+    "frame_rate": "30fps",
+    "max_bitrate_kbps": null,
+    "resolution": null
+  },
+  "copy": {
+    "headline_char_limit": 70,
+    "body_char_limit": 600,
+    "description_char_limit": null,
+    "cta_options": [
+      "Apply",
+      "Download",
+      "Get Quote",
+      "Learn More",
+      "Register",
+      "Sign Up",
+      "Subscribe",
+      "Visit Website"
+    ]
+  },
+  "targeting": {
+    "supports_retargeting": true,
+    "supports_lookalike": true,
+    "supports_contextual": true
+  },
+  "iab_ref": null,
+  "source_url": "https://business.linkedin.com/marketing-solutions/ad-specs",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "Raw markdown content was empty; values populated from well-known LinkedIn Video Ad specs. Min duration 3s, max duration 30 minutes (1800s), max file size 200MB, MP4 format required. Aspect ratios 1:1, 16:9, and 9:16 supported."
+}
