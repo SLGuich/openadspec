@@ -1,0 +1,59 @@
+{
+  "id": "linkedin_single_image_ad",
+  "oas_id": null,
+  "media_owner_id": "linkedin",
+  "canonical_id": "single_image_ad",
+  "format_name": "Single Image Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "in_feed"
+  ],
+  "dimensions": {
+    "width": null,
+    "height": null,
+    "aspect_ratios": [
+      "1.91:1",
+      "1:1",
+      "4:5"
+    ],
+    "max_width": null,
+    "max_height": null
+  },
+  "file": {
+    "types": [
+      "jpg",
+      "png",
+      "gif"
+    ],
+    "max_size_mb": 5,
+    "max_size_kb": null,
+    "max_duration_s": null,
+    "min_duration_s": null,
+    "frame_rate": null,
+    "max_bitrate_kbps": null,
+    "resolution": null
+  },
+  "copy": {
+    "headline_char_limit": 70,
+    "body_char_limit": 150,
+    "description_char_limit": null,
+    "cta_options": [
+      "Apply",
+      "Download",
+      "Get Quote",
+      "Learn More",
+      "Register",
+      "Sign Up",
+      "Subscribe",
+      "Visit Website"
+    ]
+  },
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://business.linkedin.com/marketing-solutions/ad-specs",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "The raw source content provided was empty. Specifications populated from well-known LinkedIn Single Image Ad requirements. Please verify against the live page."
+}
