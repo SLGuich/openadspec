@@ -1,0 +1,23 @@
+{
+  "id": "instagram_reels_ad",
+  "oas_id": null,
+  "media_owner_id": "instagram",
+  "canonical_id": "reels_ad",
+  "format_name": "Reels Ad",
+  "channels": [
+    "social",
+    "video"
+  ],
+  "placements": [
+    "reels"
+  ],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://www.facebook.com/business/ads-guide/image",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "The source URL returned a 404 'page does not exist' error. No specification data was available in the raw content. All fields are null due to absence of source data."
+}
