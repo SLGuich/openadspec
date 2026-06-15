@@ -1,0 +1,49 @@
+{
+  "id": "linkedin_carousel_ad",
+  "oas_id": null,
+  "media_owner_id": "linkedin",
+  "canonical_id": "carousel_ad",
+  "format_name": "Carousel Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "in_feed"
+  ],
+  "dimensions": {
+    "width": null,
+    "height": null,
+    "aspect_ratios": [
+      "1:1",
+      "1.91:1",
+      "1:1.91"
+    ],
+    "max_width": null,
+    "max_height": null
+  },
+  "file": {
+    "types": [
+      "jpg",
+      "png"
+    ],
+    "max_size_mb": 10,
+    "max_size_kb": null,
+    "max_duration_s": null,
+    "min_duration_s": null,
+    "frame_rate": null,
+    "max_bitrate_kbps": null,
+    "resolution": null
+  },
+  "copy": {
+    "headline_char_limit": 45,
+    "body_char_limit": 255,
+    "description_char_limit": null,
+    "cta_options": null
+  },
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://business.linkedin.com/marketing-solutions/ad-specs",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "Carousel Ads require a minimum of 2 cards and a maximum of 10 cards. Each card has its own image, headline, and destination URL. Recommended image size is 1080x1080px for 1:1 aspect ratio."
+}
