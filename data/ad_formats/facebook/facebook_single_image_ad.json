@@ -1,0 +1,70 @@
+{
+  "id": "facebook_single_image_ad",
+  "oas_id": null,
+  "media_owner_id": "facebook",
+  "canonical_id": "single_image_ad",
+  "format_name": "Single Image Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "in_feed"
+  ],
+  "dimensions": {
+    "width": null,
+    "height": null,
+    "aspect_ratios": [
+      "4:5"
+    ],
+    "max_width": null,
+    "max_height": null
+  },
+  "file": {
+    "types": [
+      "jpg",
+      "png"
+    ],
+    "max_size_mb": 30,
+    "max_size_kb": null,
+    "max_duration_s": null,
+    "min_duration_s": null,
+    "frame_rate": null,
+    "max_bitrate_kbps": null,
+    "resolution": "1440 x 1800 pixels"
+  },
+  "copy": {
+    "headline_char_limit": 27,
+    "body_char_limit": 150,
+    "description_char_limit": null,
+    "cta_options": [
+      "Apply now",
+      "Book now",
+      "Contact us",
+      "Download",
+      "Get directions",
+      "Learn more",
+      "Get quote",
+      "Send message",
+      "Order now",
+      "Shop now",
+      "Sign up",
+      "Watch more",
+      "Send WhatsApp message",
+      "Try in Camera",
+      "Find Your Groups",
+      "Subscribe",
+      "See menu",
+      "Listen now",
+      "Request time",
+      "Get showtimes",
+      "Call now",
+      "Dial code"
+    ]
+  },
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://www.facebook.com/business/ads-guide/image",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "Recommended ratio is 4:5 with resolution 1440x1800 pixels. Minimum width 600 pixels; minimum height for 4:5 ratio is 750 pixels. Aspect ratio tolerance is 3%. Primary text recommendation is 50-150 characters. Panoramas and 360 photos may also be used on Facebook Feed."
+}
