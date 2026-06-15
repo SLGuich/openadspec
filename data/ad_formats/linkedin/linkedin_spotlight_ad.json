@@ -1,0 +1,22 @@
+{
+  "id": "linkedin_spotlight_ad",
+  "oas_id": null,
+  "media_owner_id": "linkedin",
+  "canonical_id": "spotlight_ad",
+  "format_name": "Spotlight Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "in_feed"
+  ],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://business.linkedin.com/marketing-solutions/ad-specs",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "No specification data was present in the provided raw markdown content for the Spotlight Ad format."
+}
