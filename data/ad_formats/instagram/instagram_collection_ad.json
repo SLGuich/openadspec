@@ -1,0 +1,51 @@
+{
+  "id": "instagram_collection_ad",
+  "oas_id": null,
+  "media_owner_id": "instagram",
+  "canonical_id": "collection_ad",
+  "format_name": "Collection Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [
+    "in_feed"
+  ],
+  "dimensions": {
+    "width": 1080,
+    "height": 1080,
+    "aspect_ratios": [
+      "1.91:1",
+      "1:1"
+    ],
+    "max_width": null,
+    "max_height": null
+  },
+  "file": {
+    "types": [
+      "jpg",
+      "png",
+      "mp4",
+      "mov",
+      "gif"
+    ],
+    "max_size_mb": 4096,
+    "max_size_kb": null,
+    "max_duration_s": null,
+    "min_duration_s": null,
+    "frame_rate": null,
+    "max_bitrate_kbps": null,
+    "resolution": "At least 1080 x 1080 pixels"
+  },
+  "copy": {
+    "headline_char_limit": 40,
+    "body_char_limit": 125,
+    "description_char_limit": null,
+    "cta_options": null
+  },
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://www.facebook.com/business/ads-guide/image",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "Collection ad includes a cover image or video followed by 3 product images. Tapping opens an Instant Experience (full-screen landing page). Image max file size: 30MB; Video max file size: 4GB. Instant Experience is required. Available placements also include Instagram Stories, Instagram Reels, Instagram Explore, Facebook Feed, Facebook video feeds, Facebook Reels, and Facebook Marketplace, but specs shown are for Facebook Feed."
+}
