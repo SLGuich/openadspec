@@ -1,0 +1,20 @@
+{
+  "id": "facebook_collection_ad",
+  "oas_id": null,
+  "media_owner_id": "facebook",
+  "canonical_id": "collection_ad",
+  "format_name": "Collection Ad",
+  "channels": [
+    "social"
+  ],
+  "placements": [],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
+  "targeting": null,
+  "iab_ref": null,
+  "source_url": "https://www.facebook.com/business/ads-guide",
+  "last_scraped": "2026-06-15",
+  "spec_version": 1,
+  "notes": "The raw markdown content did not contain detailed technical specifications for the Collection Ad format. Only navigation links and general page content were present. Actual spec data (dimensions, file requirements, copy limits, etc.) requires authenticated access or a deeper page scrape of https://www.facebook.com/business/ads-guide/update/collection."
+}
