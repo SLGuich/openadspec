@@ -32,7 +32,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://support.google.com/youtube/answer/2375497",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "Bumper ads are 6 seconds long and play before, during, or after other videos. Users do not have the option to skip the ad. Available as a headline and display URL (up to 255 characters) creative option. Supported in Video reach (Efficient reach, Non-skippable reach, Target frequency), Ad sequence, and Reservation campaign subtypes."
+  "notes": "Bumper ads are 6 seconds long and play before, during, or after other videos. Users do not have the option to skip the ad. Available as a headline and display URL (up to 255 characters) for creative options. Can be used in Video reach (Efficient reach, Non-skippable reach, Target frequency), Ad sequence, and Reservation campaign subtypes."
 }
