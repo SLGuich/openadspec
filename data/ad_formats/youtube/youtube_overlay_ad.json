@@ -16,7 +16,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://support.google.com/youtube/answer/2375497",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "The source page covers Video campaign creation generally and does not contain specific technical specifications for the Overlay Ad format. Overlay Ad specs are not described in this content."
+  "notes": "The source page covers Video campaign creation generally and does not contain specific technical specifications for the Overlay Ad format. Overlay Ad is not mentioned in the raw content provided."
 }
