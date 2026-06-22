@@ -41,32 +41,32 @@
     "cta_options": [
       "Apply now",
       "Book now",
-      "Contact us",
       "Download",
-      "Get directions",
       "Learn more",
       "Get quote",
       "Send message",
       "Order now",
       "Shop now",
-      "Sign up",
       "Watch more",
       "Send WhatsApp message",
       "Find Your Groups",
       "Try in Camera",
-      "Get showtimes",
+      "Contact us",
       "Subscribe",
       "Listen now",
       "Dial code",
-      "Request time",
       "See menu",
-      "Call now"
+      "Get showtimes",
+      "Get directions",
+      "Sign up",
+      "Call now",
+      "Request time"
     ]
   },
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://www.facebook.com/business/ads-guide/image",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "Specs extracted from Facebook/Meta Ads Guide video section (Facebook Feed placement). The source URL provided is for the image guide page but content covers video format. Primary text recommendation is 50-150 characters. Video settings: H.264 compression, square pixels, fixed frame rate, progressive scan and stereo AAC audio at 128kbps+. Minimum width and height: 120 pixels. Max file size 4GB converted to 4096MB. Max duration 241 minutes converted to 14460 seconds. Note: for Awareness objective or certain performance goals, headline, description and CTA button won't display on Facebook Feed mobile."
+  "notes": "Specs sourced from Facebook Feed Video section of the Meta Ads Guide. The page content covers Facebook Feed video; the Instagram Feed placement is listed as available but its specific specs are not detailed in this scraped content. File type: MP4, MOV or GIF. Video settings: H.264 compression, square pixels, fixed frame rate, progressive scan and stereo AAC audio at 128kbps+. Minimum width: 120px, minimum height: 120px. Primary text recommendation: 50-150 characters. Video captions and sound are optional but recommended. 360 video is supported with some objectives."
 }
