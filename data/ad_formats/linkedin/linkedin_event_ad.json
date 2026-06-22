@@ -7,42 +7,14 @@
   "channels": [
     "social"
   ],
-  "placements": [
-    "in_feed"
-  ],
-  "dimensions": {
-    "width": null,
-    "height": null,
-    "aspect_ratios": [
-      "1:1",
-      "1.91:1"
-    ],
-    "max_width": null,
-    "max_height": null
-  },
-  "file": {
-    "types": [
-      "jpg",
-      "png"
-    ],
-    "max_size_mb": 5,
-    "max_size_kb": null,
-    "max_duration_s": null,
-    "min_duration_s": null,
-    "frame_rate": null,
-    "max_bitrate_kbps": null,
-    "resolution": null
-  },
-  "copy": {
-    "headline_char_limit": 255,
-    "body_char_limit": 600,
-    "description_char_limit": null,
-    "cta_options": null
-  },
+  "placements": [],
+  "dimensions": null,
+  "file": null,
+  "copy": null,
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://business.linkedin.com/marketing-solutions/ad-specs",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "Event Ads are used to promote LinkedIn Events. The image is typically pulled from the event page. Introductory text limit is 600 characters. Headline limit is 255 characters. Specs inferred from LinkedIn ad specs page; some values may not have been explicitly stated in the raw content provided."
+  "notes": "Source URL returned a 404 page. No specification data was available for the Event Ad format."
 }
