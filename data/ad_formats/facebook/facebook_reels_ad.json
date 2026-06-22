@@ -19,5 +19,5 @@
   "source_url": "https://www.facebook.com/business/ads-guide/image",
   "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "The source URL returned a 404 'page not found' error. No technical specifications were available in the raw content. All spec fields are null due to absence of data."
+  "notes": "The source URL returned a 404-equivalent page ('You found a page that doesn't exist'). No specification data was available in the raw content. All technical fields are null as a result."
 }
