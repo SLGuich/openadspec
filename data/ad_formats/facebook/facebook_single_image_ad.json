@@ -41,24 +41,24 @@
       "Book now",
       "Contact us",
       "Download",
-      "Get directions",
       "Learn more",
       "Get quote",
       "Send message",
       "Order now",
       "Shop now",
+      "Sign up",
       "Watch more",
       "Send WhatsApp message",
       "Find Your Groups",
       "Try in Camera",
-      "Subscribe",
-      "Get showtimes",
-      "Dial code",
-      "Call now",
+      "Get directions",
+      "Listen now",
       "See menu",
+      "Get showtimes",
       "Request time",
-      "Sign up",
-      "Listen now"
+      "Dial code",
+      "Subscribe",
+      "Call now"
     ]
   },
   "targeting": null,
@@ -66,5 +66,5 @@
   "source_url": "https://www.facebook.com/business/ads-guide/image",
   "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "Specs shown are for Facebook Feed placement. Minimum width: 600 pixels. Minimum height (4:5 ratio): 750 pixels. Aspect ratio tolerance: 3%. Primary text recommendation is 50-150 characters. Panoramas and 360 photos may also be used with some objectives."
+  "notes": "Placement shown is Facebook Feed. Recommended ratio is 4:5 with resolution 1440x1800px. Minimum width is 600px; minimum height for 4:5 ratio is 750px. Aspect ratio tolerance is 3%. Primary text recommendation is 50-150 characters. Panoramas and 360 photos are also supported. Multiple other placements exist (Stories, Reels, Marketplace, Instagram, etc.) but specs shown are for Facebook Feed only."
 }
