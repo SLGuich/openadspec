@@ -5,7 +5,8 @@
   "canonical_id": "masthead_ad",
   "format_name": "Masthead Ad",
   "channels": [
-    "video"
+    "video",
+    "ctv"
   ],
   "placements": [
     "homepage"
@@ -16,7 +17,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://support.google.com/youtube/answer/2375497",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "The source page references the Masthead as a reservation campaign format available under 'YouTube reach, views, and engagements' objective, described as driving 'mass reach and awareness with a prominent ad placement on YouTube and Google TV.' Full technical specifications are not detailed in this page; a dedicated spec page is referenced at https://support.google.com/google-ads/answer/9709826 and https://support.google.com/google-ads/answer/14117675. The Masthead is booked via reservation (fixed CPM) and requires activation through a Google Representative."
+  "notes": "The source page references the Masthead ad format as a reservation campaign subtype available on YouTube and Google TV, used to 'drive mass reach and awareness with a prominent ad placement.' Detailed technical specifications are not provided in this source; they are covered in a separate article at https://support.google.com/google-ads/answer/14117675 (YouTube CPM Masthead) and https://support.google.com/google-ads/answer/9709826. The format requires activation through a Google Representative and is purchased via reservation (CPM basis)."
 }
