@@ -12,16 +12,7 @@
     "in_feed"
   ],
   "dimensions": null,
-  "file": {
-    "types": null,
-    "max_size_mb": null,
-    "max_size_kb": null,
-    "max_duration_s": null,
-    "min_duration_s": null,
-    "frame_rate": null,
-    "max_bitrate_kbps": null,
-    "resolution": null
-  },
+  "file": null,
   "copy": {
     "headline_char_limit": null,
     "body_char_limit": null,
@@ -31,7 +22,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://support.google.com/youtube/answer/2375497",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "In-Feed Video Ads appear on YouTube (search results, homepage, watch next). The source page indicates no maximum video length for in-feed format. Creative options include a long headline and description (specific character limits not stated). The video must be uploaded to YouTube. Companion banners (computer only) are supported. Available under campaign subtypes: Video Views, Drive Conversions, and Video Reach (Efficient Reach). Bid strategy is tCPV or tCPM depending on subtype."
+  "notes": "In-Feed Video Ads (formerly Video Discovery Ads) appear in YouTube feed placements. The source page is a general campaign creation guide; it notes that in-feed ads support a 'Long headline' and 'Description' as creative options specific to the format, but does not specify character limits. No video duration, file type, size, or dimension requirements are stated for this format on this page. Available under Video Views, Drive Conversions, and Video Reach (Efficient Reach) campaign subtypes."
 }
