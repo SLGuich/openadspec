@@ -45,7 +45,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://www.facebook.com/business/ads-guide/image",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "Collection ad in Facebook Feed includes a cover image or video followed by 3 product images. When tapped, opens an Instant Experience (required). Cover image max file size: 30MB; Video max file size: 4GB. Ratio listed as range 1.91:1 to 1:1. Also available on Facebook video feeds, Facebook Reels, Facebook Marketplace, Instagram Feed, Instagram Stories, Instagram Reels, and Instagram Explore placements (specs shown are for Facebook Feed only)."
+  "notes": "Collection ad in Facebook Feed includes a cover image or video followed by 3 product images. When tapped, opens an Instant Experience (required). Cover image max file size: 30MB; video max file size: 4GB. Primary text recommendation: 125 characters; headline recommendation: 40 characters. Landing Page URL is required."
 }
