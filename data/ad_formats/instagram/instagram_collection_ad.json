@@ -45,7 +45,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://www.facebook.com/business/ads-guide/image",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "Collection ad includes a cover image or video followed by 3 product images. Tapping opens an Instant Experience (full-screen landing page). Image max file size: 30MB; Video max file size: 4GB. Instant Experience is required. Available placements also include Instagram Stories, Instagram Reels, Instagram Explore, Facebook Feed, Facebook video feeds, Facebook Reels, and Facebook Marketplace, but specs shown are for Facebook Feed."
+  "notes": "Collection ad includes a cover image or video followed by 3 product images. Tapping opens an Instant Experience (full-screen landing page). Image max file size: 30MB; Video max file size: 4GB. Instant Experience is required. Ratio range is 1.91:1 to 1:1. Primary text limit is 125 characters. The source page URL was provided as the image ads guide but the content extracted pertains to the Collection format as shown on that page."
 }
