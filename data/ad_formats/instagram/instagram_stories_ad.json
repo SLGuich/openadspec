@@ -16,7 +16,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://www.facebook.com/business/ads-guide/image",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "The source URL returned a 404-equivalent page ('You found a page that doesn't exist'). No technical specifications were available in the raw content. All spec fields are null as a result."
+  "notes": "Source URL returned a 404 page. No specification data was available to extract."
 }
