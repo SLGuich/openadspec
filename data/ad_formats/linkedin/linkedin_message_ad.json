@@ -12,16 +12,11 @@
   ],
   "dimensions": null,
   "file": null,
-  "copy": {
-    "headline_char_limit": null,
-    "body_char_limit": null,
-    "description_char_limit": null,
-    "cta_options": null
-  },
+  "copy": null,
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://business.linkedin.com/marketing-solutions/ad-specs",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "No specification details were present in the raw markdown content provided. Message Ads are delivered directly to LinkedIn member inboxes."
+  "notes": "Source URL returned a 404 page. No specification data was available in the raw content. All technical fields set to null."
 }
