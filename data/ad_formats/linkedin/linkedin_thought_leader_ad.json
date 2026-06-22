@@ -16,7 +16,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://business.linkedin.com/marketing-solutions/ad-specs",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "No technical specification details were present in the raw markdown content provided. Thought Leader Ads on LinkedIn are organic posts boosted from individual member profiles. Specs could not be extracted."
+  "notes": "Source URL returned a 404 page. No specification data was available for the Thought Leader Ad format. All fields set to null due to absence of content."
 }
