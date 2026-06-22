@@ -14,7 +14,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://support.google.com/youtube/answer/2375497",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "The source page covers general Video campaign creation on YouTube but contains no specific technical specifications for the Sponsored Cards ad format. No dimensions, file requirements, copy limits, or targeting details for Sponsored Cards are present in the raw content."
+  "notes": "The source page covers general Video campaign creation on YouTube and does not contain any specifications for the Sponsored Cards ad format. No technical specifications for Sponsored Cards were found in this content."
 }
