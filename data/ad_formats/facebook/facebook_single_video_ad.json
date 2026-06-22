@@ -5,7 +5,8 @@
   "canonical_id": "single_video_ad",
   "format_name": "Single Video Ad",
   "channels": [
-    "social"
+    "social",
+    "video"
   ],
   "placements": [
     "in_feed"
@@ -29,7 +30,7 @@
     "max_size_kb": null,
     "max_duration_s": 14460,
     "min_duration_s": 1,
-    "frame_rate": "fixed",
+    "frame_rate": null,
     "max_bitrate_kbps": null,
     "resolution": "1440x1800"
   },
@@ -40,26 +41,26 @@
     "cta_options": [
       "Apply now",
       "Book now",
-      "Contact us",
       "Download",
       "Learn more",
-      "Get quote",
       "Send message",
       "Order now",
       "Shop now",
+      "Sign up",
       "Watch more",
       "Send WhatsApp message",
       "Find Your Groups",
       "Try in Camera",
       "Subscribe",
+      "Get directions",
+      "See menu",
+      "Listen now",
+      "Contact us",
+      "Get quote",
       "Dial code",
       "Get showtimes",
-      "Get directions",
-      "Request time",
-      "Listen now",
-      "Sign up",
-      "See menu",
-      "Call now"
+      "Call now",
+      "Request time"
     ]
   },
   "targeting": null,
@@ -67,5 +68,5 @@
   "source_url": "https://www.facebook.com/business/ads-guide/image",
   "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "Specs shown are for Facebook Feed placement. Video Settings: H.264 compression, square pixels, fixed frame rate, progressive scan and stereo AAC audio compression at 128kbps+. Minimum width: 120px, minimum height: 120px. Primary text recommendation is 50-150 characters. Max file size is 4GB (converted to 4096 MB). Max duration 241 minutes (converted to 14460 seconds). Videos should not contain edit lists or special boxes in file containers. Video captions and sound are optional but recommended."
+  "notes": "Video Settings: H.264 compression, square pixels, fixed frame rate, progressive scan and stereo AAC audio compression at 128kbps+. Minimum width: 120px, minimum height: 120px. Primary text recommendation: 50-150 characters. Video captions and sound optional but recommended. Videos should not contain edit lists or special boxes in file containers. Max file size is 4GB (converted to 4096MB). Max duration is 241 minutes (converted to 14460 seconds)."
 }
