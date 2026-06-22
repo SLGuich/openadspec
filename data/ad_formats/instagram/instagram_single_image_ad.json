@@ -39,9 +39,7 @@
     "cta_options": [
       "Apply now",
       "Book now",
-      "Contact us",
       "Download",
-      "Get directions",
       "Learn more",
       "Send message",
       "Order now",
@@ -51,20 +49,22 @@
       "Send WhatsApp message",
       "Find Your Groups",
       "Try in Camera",
-      "Subscribe",
-      "Listen now",
       "Get quote",
-      "See menu",
+      "Subscribe",
       "Get showtimes",
+      "Get directions",
+      "See menu",
       "Request time",
+      "Contact us",
       "Dial code",
-      "Call now"
+      "Call now",
+      "Listen now"
     ]
   },
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://www.facebook.com/business/ads-guide/image",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "Specs extracted from the Instagram Feed placement on the Meta Ads Guide page. Primary text recommendation is 50-150 characters. Minimum width: 600 pixels; minimum height for 4:5 ratio: 750 pixels. Aspect ratio tolerance: 3%. The source page covers multiple placements; specs here reflect the Instagram Feed section."
+  "notes": "Specs sourced from Meta Ads Guide for Facebook Feed image format, applied to Instagram Single Image Ad placement. Minimum width: 600 pixels. Minimum height for 4:5 ratio: 750 pixels. Aspect ratio tolerance: 3%. Primary text recommendation: 50-150 characters."
 }
