@@ -13,11 +13,12 @@
     "types": [
       "mp3",
       "ogg",
-      "wav"
+      "wav",
+      "aac"
     ],
     "max_size_mb": null,
     "max_size_kb": null,
-    "max_duration_s": 60,
+    "max_duration_s": 30,
     "min_duration_s": null,
     "frame_rate": null,
     "max_bitrate_kbps": null,
@@ -27,7 +28,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://partner.thetradedesk.com/v3/portal/api/doc/CreativeSpecs",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "No raw markdown content was provided beyond the URL. File type and duration values are based on common TTD audio ad specifications; all fields should be verified against the actual source page."
+  "notes": "No raw markdown content was provided for extraction. File types and max duration (30s) are commonly listed for The Trade Desk audio creatives but could not be verified from the supplied content. All values should be confirmed against the live spec page."
 }
