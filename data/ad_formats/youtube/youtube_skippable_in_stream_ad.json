@@ -32,7 +32,7 @@
   "targeting": null,
   "iab_ref": null,
   "source_url": "https://support.google.com/youtube/answer/2375497",
-  "last_scraped": "2026-06-15",
+  "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "Skippable in-stream ads play before, during, or after other videos. Users can skip the ad after 5 seconds. The source states 'at least 7 seconds long' for reservation buying and 'Videos under 3 Minutes' in the format comparison table. The table caption 'Videos under 3 Minutes' suggests a max duration of under 3 minutes, but this is not explicitly stated as a hard limit in the spec text."
+  "notes": "Skippable in-stream ads play before, during, or after other videos. Users can skip the ad after 5 seconds. The source states ads are 'at least 7 seconds long' (reservation context) and separately notes 'Videos under 3 Minutes' in a summary table. Headline and display URL (up to 255 characters) and call-to-action are available creative options. Companion banners (auto-generated or manually uploaded) can appear on desktop alongside the ad."
 }
