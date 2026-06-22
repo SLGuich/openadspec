@@ -18,5 +18,5 @@
   "source_url": "https://www.facebook.com/business/ads-guide/image",
   "last_scraped": "2026-06-22",
   "spec_version": 1,
-  "notes": "The source URL returned a 404 'page not found' error and contained no technical specifications for the In-Stream Video Ad format. No spec data could be extracted."
+  "notes": "The source URL returned a 404 'page not found' error. No specification data was available in the scraped content. All technical fields are null due to absence of data."
 }
